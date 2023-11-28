@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hepzdel
-- 👀 I’m interested in Blockchain technology, Web3.0 and Defi
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... https://t.me/Hepzdel; hepzdel@gmail.com
